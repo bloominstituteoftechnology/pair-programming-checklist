@@ -37,7 +37,7 @@ $ git remote -v
 		![Make a NEW Pull Request](https://github.com/LambdaSchool/Instruction-Checklists/raw/master/img/new-Pull-Request.png)
 		![COMPARE the new Pull Request changes](https://github.com/LambdaSchool/Instruction-Checklists/raw/master/img/compare-Pull-Request-changes.png)
 		![Open the new Pull Request](https://github.com/LambdaSchool/Instruction-Checklists/raw/master/img/open-Pull-Request.png)
-		![EDIT the Pull Request](ihttps://github.com/LambdaSchool/Instruction-Checklists/raw/master/img/edit-PR-title.png)
+		![EDIT the Pull Request](https://github.com/LambdaSchool/Instruction-Checklists/raw/master/img/edit-PR-title.png)
 		![SAVE the Pull Request title change](https://github.com/LambdaSchool/Instruction-Checklists/raw/master/img/save-PR-title-change.png)
 		![BOTH full names in the Pull Request title](https://github.com/LambdaSchool/Instruction-Checklists/raw/master/img/both-full-names-in-PR-title.png)
 
