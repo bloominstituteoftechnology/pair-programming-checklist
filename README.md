@@ -1,9 +1,9 @@
 # Afternoon Pair Programming Project Time Checklist
 
-Performed by Lead or designated TA in each section each afternoon:
+Performed by Section Lead or designated PM in each section each afternoon:
 
 - [ ] Drop link to Zoom created with section Zoom account.
-- [ ] Add other section TAs as co-hosts.
+- [ ] Add other section PMs as co-hosts.
 - [ ] Announce the project and review the README with the class.
 - [ ] Review how to fork and add a collaborator to the forked repository.
 	- [ ] Person A forks the Lambda School repository.
@@ -43,6 +43,6 @@ $ git remote -v
 
 	- [ ] With every switch, push and pull all changes. They will get added to the Pull Request automatically.
 - [ ] Create breakout sessions to randomly assign pairs.
-- [ ] TAs use the breakout rooms to drop in and help groups with questions.
+- [ ] PMs use the breakout rooms to drop in and help groups with questions.
 - [ ] Send switch reminders every 30 minutes ([on the half hour](https://en.wiktionary.org/wiki/on_the_half_hour)).
-- [ ] TAs leave feedback on students' Pull Requests: [https://github.com/LambdaSchool/Code-Review-Checklist](https://github.com/LambdaSchool/Code-Review-Checklist)
+- [ ] PMs leave feedback on students' Pull Requests: [https://github.com/LambdaSchool/Code-Review-Checklist](https://github.com/LambdaSchool/Code-Review-Checklist)
